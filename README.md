@@ -1,4 +1,4 @@
-# A Movie Award Nomination React App: The Shoppies (2020)
+# A Movie Award Nomination React App: The Shoppies (2021)
 
 ## You can try The Shoppies right now by clicking on this link:
 * https://the-shoppies-jjs.herokuapp.com/
