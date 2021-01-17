@@ -10,6 +10,7 @@
 * Search results are retrieved from the free OMDb API.
 * Nominate up to 5 movies for "The Shoppies" movie awards.
 * Nomination picks will be saved on the web browser's local storage for later visits.
+* Nomination picks will be reset after submitting nominations to repeat the simulation.
 
 ## Preparations before downloading and running the project:
 * Please have Node.js installed. I am currently using Node.js version 12.16.3 for this project.
