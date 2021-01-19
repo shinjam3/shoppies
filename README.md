@@ -5,6 +5,9 @@
 
 ## Note: this project was created to complete the "UX Developer Intern & Web Developer Intern Challenge - Summer 2021" from Shopify.
 
+## Software Used: 
+HTML, CSS, JavaScript, React (Hooks)
+
 ## Key Functionalities:
 * Search for a movie by title.
 * Search results are retrieved from the free OMDb API.
