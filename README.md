@@ -1,8 +1,5 @@
 # A Movie Award Nomination React App: The Shoppies (2021)
 
-## You can try The Shoppies right now by clicking on this link:
-* https://the-shoppies-jjs.herokuapp.com/
-
 ## Note: this project was created to complete the "UX Developer Intern & Web Developer Intern Challenge - Summer 2021" from Shopify.
 
 ## Software Used: 
